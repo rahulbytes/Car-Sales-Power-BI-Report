@@ -43,3 +43,4 @@ This Power BI report serves as a powerful tool for understanding and analyzing s
 
 Feel free to explore, interact, and gain valuable insights from this dashboard. If you have any questions or feedback, please don't hesitate to reach out!
 
+[Car Sales Dashboard.pdf](https://github.com/rahulbytes/Car-Sales-Power-BI-Report/files/15502227/Car.Sales.Dashboard.pdf)
